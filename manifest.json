@@ -1,6 +1,7 @@
 {
-    "name": "Text to Search",
-    "description": "Highlight over a word to search for it",
+    "name": "Text to Search in Wikipedia, Google and Bing",
+    "author": "Team Spartan",
+    "description": "Highlight over a word and right click to search for it",
     "version": "1.0",
     "manifest_version": 3,
     "background": {
@@ -12,5 +13,6 @@
     ],
     "icons": {
         "16": "16.png"
-    }
+    },
+    "options_page": "option.html"
 }
