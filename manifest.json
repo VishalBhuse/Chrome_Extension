@@ -1,0 +1,16 @@
+{
+    "name": "Text to Search",
+    "description": "Highlight over a word to search for it",
+    "version": "1.0",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions":[
+        "contextMenus",
+        "tabs"
+    ],
+    "icons": {
+        "16": "16.png"
+    }
+}
