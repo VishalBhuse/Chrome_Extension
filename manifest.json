@@ -1,5 +1,5 @@
 {
-    "name": "Text to Search in Wikipedia, Google and Bing",
+    "name": "Text to Search",
     "author": "Team Spartan",
     "description": "Highlight over a word and right click to search for it",
     "version": "1.0",
@@ -12,7 +12,10 @@
         "tabs"
     ],
     "icons": {
-        "16": "16.png"
+        "16": "/favicon/fav16.png",
+        "32": "/favicon/fav32.png",
+        "48": "/favicon/fav192.png",
+        "128": "/favicon/fav512.png"
     },
     "options_page": "option.html"
 }
