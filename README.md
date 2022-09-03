@@ -26,7 +26,7 @@
         <h2>Step 3:</h2>
         <p>After selecting menu with respect to than you are redirect to new tab.</p>
         <img
-          src="./Step 3.png"
+          src="./step3.png"
           class="m-auto"
           width="100%"
           alt=""
