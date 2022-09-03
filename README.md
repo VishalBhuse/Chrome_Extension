@@ -14,7 +14,7 @@
     <div class="row m-0">
       <div class="col-12">
         <h2>Step 1:</h2>
-        <p>Add Extension in your chreme Extension</p>
+        <p>Add Extension in your chrome Extension</p>
         <img src="./step1.png"  width="100%" alt="" />
       </div>
       <div class="col-12">
@@ -24,7 +24,7 @@
       </div>
       <div class="col-12 mt-5">
         <h2>Step 3:</h2>
-        <p>Highlight Tour Word and Right Click it</p>
+        <p>After selecting menu with respect to than you are redirect to new tab.</p>
         <img
           src="./Step 3.png"
           class="m-auto"
